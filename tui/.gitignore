@@ -1,0 +1,7 @@
+# Build artifacts
+build/
+kryppi
+CMakeFiles/
+*.json
+CMakeCache.txt
+Makefile
